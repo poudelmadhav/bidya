@@ -9,12 +9,12 @@ html {
 
 .prof-box {
 	max-width: 400px;
-	max-height: 470px;
+	max-height: 480px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
 	color: white;
 	margin: 0 auto;
-	margin-top: 50px;
+	margin-top: 45px;
 	text-align: center;
 }
 
@@ -50,7 +50,7 @@ p {
 }
 
 .line-break {
-	width: 305px;
+	width: 284px;
 	margin: 0 auto;
 	border-top: 1px solid white;
 }
